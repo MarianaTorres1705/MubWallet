@@ -12,3 +12,4 @@ App Android para una wallet sencilla. Hoy se dejó operativa la UI de login y la
   - `MainActivity` → **`HomeActivity`** al presionar **Login**.
   - Nueva vista **`activity_home.xml`** creada y **`HomeActivity`** registrada en `AndroidManifest.xml`.
 
+https://github.com/MarianaTorres1705/MubWallet 
